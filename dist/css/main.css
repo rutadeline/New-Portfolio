@@ -1,0 +1,196 @@
+/*html{
+    margin: 0%;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+body{
+    margin: 0px;
+    top: 0;
+    right: 0;
+}
+.portfolio-hero{
+    background: url(../img/Back.jpg) no-repeat center center fixed;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}
+    img { max-width: 100%; height: auto; }  
+}
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+    img { max-width: 100%; height: auto; }
+}
+.portfolio-menu ul{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.portfolio-menu ul li{
+    margin: 0px 10px;
+    list-style: none;
+    padding-top: 5px;
+    font-size: 150%;
+}
+.portfolio-menu ul a:hover{
+    background-color: rgb(143, 140, 140);
+    color:white;
+}
+.portfolio-menu .menu-item a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.portfolio-profile{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    text-align: center;
+}
+.portfolio-profile img{
+    height: 230px;
+    width: 250px;
+    border-radius: 50%;
+}
+.portfolio-profile h1{
+    font-weight: 300;
+    margin: 15px;
+    font-size: 3.2rem;
+}
+.portfolio-profile h2{
+    font-weight: 300;
+    margin: 0px;
+    font-size: 2.2rem;
+
+}
+/*main /
+main{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(21, 21, 22);
+    text-align: center;
+    color: white;
+    display: block;
+}
+#about{
+    text-align: center;
+    padding: 35px;
+    color: white;
+
+}
+#about h2{
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 300;
+    color:white;
+    text-align: center;
+}
+#about p{
+    font-size: 1.5rem;
+    font-weight: 300;
+
+}
+#about{
+    text-align: center;
+    padding: 100px;
+    color: white;
+    display: block;
+}
+#skills{
+    padding: 100px;
+    color: white;
+    display: block;
+    text-align: center;
+    background-color: rgb(21, 21, 22);
+}
+
+.skills h2{
+    font-size: 2rem;
+    font-weight: 300;
+    color: white;
+    margin: 20px 0px;
+    text-align: center;
+    background-color: rgb(21, 21, 22);
+}
+.skills h3{
+    font-size: 1.8em;
+    font-weight: 300;
+    text-align: center;
+
+}
+.skill-main-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    grid-column-gap: 50px;
+
+}
+.skill-main-grid h2{
+    font-size: 1.5rem;
+
+}
+.skill-grid5{
+    align-items: center;
+    text-align: center;
+}
+.portfolio-form{
+    padding: 100px 100px;
+    color: white;
+    display: block;
+    text-align: center;
+    background-color: rgb(21, 21, 22);
+    position: relative;
+}
+
+.form-label{
+    padding: 7px 0px;
+    font-size: 1.3rem;
+}
+.form-input input{
+    width: 50%;
+    padding: 7px 0px;
+    border-radius: 8px;
+}
+.form-input input:focus {
+    transition: .7s;
+    border-color: aquamarine;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,25)
+}
+.form-input-textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    width: 50%;
+    padding: 7px 0px;
+    height: 200px;
+}
+.form-input-textarea :focus{
+    transition: .7s;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,25);
+}
+.form-submit{
+    margin-top: 5px;
+    text-align: center;
+}
+.btn-submit {
+    padding: 5px 25px;
+    text-decoration: none;
+    margin-top: -40px;
+    color: white;
+    background-color: rgb(65, 62, 62);
+    border-radius: 50px;
+}
+.footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background: rgb(46, 45, 45);
+}*/
