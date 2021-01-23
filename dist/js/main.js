@@ -1,4 +1,4 @@
-/*function appendMailTo(){
+function appendMailTo(){
     let message = document.getElementById("mailMessage").Value;
     let subject = document.getElementById("mailSubject").value;
     console.log(subject);
@@ -11,4 +11,4 @@
 let date = new Date();
 let yearPos = document.getElementById("getYear");
 let currYear = date.getFullYear();
-yearPos.innerHTML = currYear;*/
+yearPos.innerHTML = currYear;
