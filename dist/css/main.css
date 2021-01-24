@@ -28,15 +28,16 @@ body{
 }
 .portfolio-menu ul{
     margin: 0;
-    display: flex;
+    display:flex;
     position: sticky;
-    justify-content: stretch;
+    justify-content:left
 }
 .portfolio-menu ul li{
     margin: 0px 10px;
     list-style: none;
     padding-top: 5px;
     font-size: 150%;
+    padding-inline-start: 10px;
 }
 .portfolio-menu ul a:hover{
     background-color: rgb(143, 140, 140);
@@ -45,7 +46,7 @@ body{
 .portfolio-menu .menu-item a{
     color: white;
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform:uppercase;
 }
 .portfolio-profile{
     width: 400px;
@@ -201,13 +202,17 @@ main{
     text-align: center;
 }
 .btn-submit {
-    padding: 5px 28px;
+    padding: 4px 28px;
     text-decoration: none;
     margin-top: -60px;
     color: white;
     font-size: large;
-    background-color: rgb(17, 8, 39);
+    background-color: rgb(44, 4, 4);
     border-radius: 100px;
+}
+.form-submit a:hover{
+    background-color: rgb(211, 199, 199);
+    color:black;
 }
 .footer {
     color: white;
