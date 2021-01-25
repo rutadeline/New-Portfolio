@@ -1,22 +1,23 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rutadeline/single-page-portfolio.git"
+    "url": "git+https://github.com/rutadeline/New-Portfolio.git"
   },
   "author": "Adeline Uwibambe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rutadeline/single-page-portfolio/issues"
+    "url": "https://github.com/rutadeline/New-Portfolio/issues"
   },
-  "homepage": "https://github.com/rutadeline/single-page-portfolio#readme",
+  "homepage": "https://github.com/rutadeline/New-Portfolio#readme",
   "dependencies": {
-    "gh-pages": "^2.1.1"
-  }
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
