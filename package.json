@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
-  
   },
   "repository": {
     "type": "git",
@@ -17,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/rutadeline/New-Portfolio/issues"
   },
-  
   "dependencies": {
     "gh-pages": "^2.2.0"
   },
